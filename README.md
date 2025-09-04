@@ -4,7 +4,6 @@ n8n Docker Compose
 
 Alles in einem Block: Installation, Docker Compose, Container starten und Netzwerkzugriff.
 
-```bash
 # 1. System aktualisieren
 sudo apt update && sudo apt upgrade -y
 sudo apt install -y ca-certificates curl gnupg lsb-release
